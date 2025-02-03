@@ -11,7 +11,7 @@ class BuyerOrdersScreen extends StatelessWidget {
         title: Row(
           children: [
             Padding(
-              padding: const EdgeInsets.only(left: 110.0),
+              padding: const EdgeInsets.only(left: 60.0),
               child: SvgPicture.asset(
                 'assets/Recurso 1.svg',
                 height: 40.0,
