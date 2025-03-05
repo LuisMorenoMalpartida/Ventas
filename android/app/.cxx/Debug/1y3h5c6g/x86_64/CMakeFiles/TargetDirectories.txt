@@ -1,0 +1,2 @@
+D:/ANDROID/venta/android/app/.cxx/Debug/1y3h5c6g/x86_64/CMakeFiles/edit_cache.dir
+D:/ANDROID/venta/android/app/.cxx/Debug/1y3h5c6g/x86_64/CMakeFiles/rebuild_cache.dir
